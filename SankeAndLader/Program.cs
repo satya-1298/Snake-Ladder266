@@ -10,7 +10,7 @@ namespace SankeAndLader
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Sanke-Ladder Game");
+            Console.WriteLine(" Sanke-Ladder Game Played with Single player at start Position 0");
         }
     }
 }
