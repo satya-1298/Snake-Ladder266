@@ -11,6 +11,7 @@ namespace SankeAndLader
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Sanke-Ladder Game");
+            Position.gamestart();
         }
     }
 }
