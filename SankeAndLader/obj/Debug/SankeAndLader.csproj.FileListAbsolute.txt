@@ -1,0 +1,16 @@
+D:\assignments\SankeAndLader\bin\Debug\SankeAndLader.exe.config
+D:\assignments\SankeAndLader\bin\Debug\SankeAndLader.exe
+D:\assignments\SankeAndLader\bin\Debug\SankeAndLader.pdb
+D:\assignments\SankeAndLader\obj\Debug\SankeAndLader.csproj.AssemblyReference.cache
+D:\assignments\SankeAndLader\obj\Debug\SankeAndLader.csproj.SuggestedBindingRedirects.cache
+D:\assignments\SankeAndLader\obj\Debug\SankeAndLader.csproj.CoreCompileInputs.cache
+D:\assignments\SankeAndLader\obj\Debug\SankeAndLader.exe
+D:\assignments\SankeAndLader\obj\Debug\SankeAndLader.pdb
+D:\assignments\Snake-Ladder266\SankeAndLader\bin\Debug\SankeAndLader.exe.config
+D:\assignments\Snake-Ladder266\SankeAndLader\bin\Debug\SankeAndLader.exe
+D:\assignments\Snake-Ladder266\SankeAndLader\bin\Debug\SankeAndLader.pdb
+D:\assignments\Snake-Ladder266\SankeAndLader\obj\Debug\SankeAndLader.csproj.AssemblyReference.cache
+D:\assignments\Snake-Ladder266\SankeAndLader\obj\Debug\SankeAndLader.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Snake-Ladder266\SankeAndLader\obj\Debug\SankeAndLader.csproj.CoreCompileInputs.cache
+D:\assignments\Snake-Ladder266\SankeAndLader\obj\Debug\SankeAndLader.exe
+D:\assignments\Snake-Ladder266\SankeAndLader\obj\Debug\SankeAndLader.pdb

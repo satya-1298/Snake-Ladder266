@@ -12,6 +12,8 @@ namespace SankeAndLader
         {
             Console.WriteLine("Welcome to the Sanke-Ladder Game");
             Position.gamestart();
+            Position move = new Position();
+           
         }
     }
 }
